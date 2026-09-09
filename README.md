@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img src="cypress/img/duckgo.png">
+<img src="cypress/img/duckgo.png">
 </h1>
 <h1 align="center">
-    <img src="cypress/img/Busca.feature.gif">
+<img src="cypress/img/Busca.feature.gif">
 </h1>
 
-## 📋 Sobre
+## 📋 About
 
-**Teste** foi criado para colocar o Cypress no GiActions
+**Teste** was created to implement Cypress with GitHub Actions.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [Npm](https://www.npmjs.com/)
@@ -22,25 +22,25 @@
 - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/)
 
-## 🔍 Fontes
+## 🔍 Sources
 
-- [Many | Teste e Qualidade de Software](https://www.youtube.com/watch?v=MW0QLdZHNGw) - GitActions
+- [Muitos | Teste e Qualidade de Software](https://www.youtube.com/watch?v=MW0QLdZHNGw) - GitHub Actions
 - [Walmyr TaT](https://talkingabouttesting.com/) - Cypress
 - [dailypoison](https://www.youtube.com/watch?v=h8wd0V0Yes8&t=538s) - Docker
 
-## 🎮 Como usar
+## 🎮 How to use
 ```
-1. Clonando o repositório 
+1. Cloning the repository
 $ git clone https://github.com/clestonv/s_dg.git
 
-2. Acessando o diretório do projeto 
+2. Accessing the project directory
 $ cd cypress-gitactions
 
-3. Instalando as dependências 
+3. Installing dependencies
 $ npm -i --force
 
-4. Executando Modo Headless
+4. Running in Headless Mode
 $ npx cypress run
 
 
-Feito por Cleberson Osorio 🌊
+Made by Cleberson Osorio 🌊
